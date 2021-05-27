@@ -1,0 +1,13 @@
+C:\Shaker Development Plan\Design Patterns\Head First Design Pattern\Projects\Chapter 1 - Strategy Pattern\DuckApp\bin\Debug\netcoreapp3.1\DuckApp.exe
+C:\Shaker Development Plan\Design Patterns\Head First Design Pattern\Projects\Chapter 1 - Strategy Pattern\DuckApp\bin\Debug\netcoreapp3.1\DuckApp.deps.json
+C:\Shaker Development Plan\Design Patterns\Head First Design Pattern\Projects\Chapter 1 - Strategy Pattern\DuckApp\bin\Debug\netcoreapp3.1\DuckApp.runtimeconfig.json
+C:\Shaker Development Plan\Design Patterns\Head First Design Pattern\Projects\Chapter 1 - Strategy Pattern\DuckApp\bin\Debug\netcoreapp3.1\DuckApp.runtimeconfig.dev.json
+C:\Shaker Development Plan\Design Patterns\Head First Design Pattern\Projects\Chapter 1 - Strategy Pattern\DuckApp\bin\Debug\netcoreapp3.1\DuckApp.dll
+C:\Shaker Development Plan\Design Patterns\Head First Design Pattern\Projects\Chapter 1 - Strategy Pattern\DuckApp\bin\Debug\netcoreapp3.1\DuckApp.pdb
+C:\Shaker Development Plan\Design Patterns\Head First Design Pattern\Projects\Chapter 1 - Strategy Pattern\DuckApp\obj\Debug\netcoreapp3.1\DuckApp.csprojAssemblyReference.cache
+C:\Shaker Development Plan\Design Patterns\Head First Design Pattern\Projects\Chapter 1 - Strategy Pattern\DuckApp\obj\Debug\netcoreapp3.1\DuckApp.AssemblyInfoInputs.cache
+C:\Shaker Development Plan\Design Patterns\Head First Design Pattern\Projects\Chapter 1 - Strategy Pattern\DuckApp\obj\Debug\netcoreapp3.1\DuckApp.AssemblyInfo.cs
+C:\Shaker Development Plan\Design Patterns\Head First Design Pattern\Projects\Chapter 1 - Strategy Pattern\DuckApp\obj\Debug\netcoreapp3.1\DuckApp.csproj.CoreCompileInputs.cache
+C:\Shaker Development Plan\Design Patterns\Head First Design Pattern\Projects\Chapter 1 - Strategy Pattern\DuckApp\obj\Debug\netcoreapp3.1\DuckApp.dll
+C:\Shaker Development Plan\Design Patterns\Head First Design Pattern\Projects\Chapter 1 - Strategy Pattern\DuckApp\obj\Debug\netcoreapp3.1\DuckApp.pdb
+C:\Shaker Development Plan\Design Patterns\Head First Design Pattern\Projects\Chapter 1 - Strategy Pattern\DuckApp\obj\Debug\netcoreapp3.1\DuckApp.genruntimeconfig.cache
